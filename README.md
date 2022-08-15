@@ -12,5 +12,6 @@ I am a budding Software Engineer, Content Creator, and Community Engineer who is
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeborahAlt&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahAlt&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeborahAlt&show_icons=true&include_all_commits=true&hide_border=true" alt="Deborah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahAlt&langs_count=8&layout=compact&hide_border=true" alt="Deborah's GitHub stats" /> |
 | ------------- | ------------- |
